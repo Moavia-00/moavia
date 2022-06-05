@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/moavia/static/css/main.1f621c21.css",
+    "main.js": "/moavia/static/js/main.32455433.js",
+    "static/media/patientdoctor.png": "/moavia/static/media/patientdoctor.1835d6616c36ef6c438b.png",
+    "static/media/sql.png": "/moavia/static/media/sql.167c88550478e6f0f85c.png",
+    "static/media/expertacademia.png": "/moavia/static/media/expertacademia.914514febe9ffb8af9ee.png",
+    "static/media/bootstrap.png": "/moavia/static/media/bootstrap.d5210cdeab1bc94309c4.png",
+    "static/media/datastructure.png": "/moavia/static/media/datastructure.27bbbda7455696ebcde6.png",
+    "static/media/react.png": "/moavia/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/moavia/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/moavia/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/moavia/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/moavia/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/moavia/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/git.png": "/moavia/static/media/git.7d664489ed331806ddc8.png",
+    "index.html": "/moavia/index.html",
+    "main.1f621c21.css.map": "/moavia/static/css/main.1f621c21.css.map",
+    "main.32455433.js.map": "/moavia/static/js/main.32455433.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f621c21.css",
+    "static/js/main.32455433.js"
+  ]
+}
